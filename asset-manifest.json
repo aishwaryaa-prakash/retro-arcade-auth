@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/retro-arcade-auth/static/css/main.d0126669.css",
-    "main.js": "/retro-arcade-auth/static/js/main.0acef619.js",
+    "main.js": "/retro-arcade-auth/static/js/main.6f3de7f5.js",
     "static/js/453.670e15c7.chunk.js": "/retro-arcade-auth/static/js/453.670e15c7.chunk.js",
     "index.html": "/retro-arcade-auth/index.html",
     "main.d0126669.css.map": "/retro-arcade-auth/static/css/main.d0126669.css.map",
-    "main.0acef619.js.map": "/retro-arcade-auth/static/js/main.0acef619.js.map",
+    "main.6f3de7f5.js.map": "/retro-arcade-auth/static/js/main.6f3de7f5.js.map",
     "453.670e15c7.chunk.js.map": "/retro-arcade-auth/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0126669.css",
-    "static/js/main.0acef619.js"
+    "static/js/main.6f3de7f5.js"
   ]
 }
